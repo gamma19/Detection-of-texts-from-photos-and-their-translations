@@ -4,3 +4,4 @@ As I find more time in my daily life, I will try to improve this program’s cap
 
 ![gui](https://github.com/gamma19/Detection-of-texts-from-photos-and-their-translations/assets/61944226/3ab428d0-8509-4c83-b6a3-9daa1890d69c)
 <img width="610" height="182" alt="Screenshot 2025-08-07 111834" src="https://github.com/user-attachments/assets/b3919e1d-f347-42bd-ab0a-f7916fea57c1" />
+<img width="616" height="470" alt="Screenshot 2025-08-07 112122" src="https://github.com/user-attachments/assets/2dcb3c35-4bf8-47d2-80a3-2b79cb609001" />
